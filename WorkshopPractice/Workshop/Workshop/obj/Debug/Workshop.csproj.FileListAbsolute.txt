@@ -1,0 +1,11 @@
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\bin\Workshop.dll
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\bin\Workshop.pdb
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\obj\Debug\Workshop.csprojResolveAssemblyReference.cache
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\obj\Debug\Workshop.dll
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\obj\Debug\Workshop.pdb
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\obj\Debug\Workshop.Properties.Resources.resources
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\obj\Debug\Workshop.csproj.GenerateResource.Cache
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\bin\Plankton.dll
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\bin\PlanktonGh.dll
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\bin\Plankton.xml
+E:\PoliMi - Course\Digi Skill\C# Scripting and Plugin Development\WorkshopPractice\Workshop\Workshop\bin\PlanktonGh.xml
